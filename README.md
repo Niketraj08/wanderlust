@@ -77,12 +77,3 @@ B.Tech CSE | MERN Stack Developer
 
 ---
 
-If you want:
-
-✅ **Professional GitHub version**  
-✅ **MERN-specific README**  
-✅ **With screenshots section**  
-✅ **With live demo link**  
-✅ **College submission format**  
-
-Just tell me what style you want 😄
