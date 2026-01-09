@@ -67,9 +67,12 @@ cd wanderlust
 npm install
 npm start
 http://localhost:3000
+
+
+`````
 👨‍💻 Author
 
-Your Name Niket Raj
+ Name Niket Raj
 B.Tech CSE | MERN Stack Developer
 
 ---
