@@ -46,4 +46,40 @@ It provides a simple and user-friendly platform for travelers to discover new pl
 ---
 
 ## 📂 Project Structure
+wanderlust/
+│
+├── frontend/
+├── backend/
+├── models/
+├── routes/
+├── public/
+└── README.md
 
+
+---
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository  
+```bash
+git clone https://github.com/your-username/wanderlust.git
+cd wanderlust
+npm install
+npm start
+http://localhost:3000
+👨‍💻 Author
+
+Your Name Niket Raj
+B.Tech CSE | MERN Stack Developer
+
+---
+
+If you want:
+
+✅ **Professional GitHub version**  
+✅ **MERN-specific README**  
+✅ **With screenshots section**  
+✅ **With live demo link**  
+✅ **College submission format**  
+
+Just tell me what style you want 😄
